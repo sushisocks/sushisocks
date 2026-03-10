@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sushisocks
 - 👀 I’m interested in everything that's internet related and 3D puzzles
 - 🌱 I’m currently learning a lot
-- 😄 Pronouns: Florin
 - ⚡ Fun fact: I say random stuff
 
 <!---
